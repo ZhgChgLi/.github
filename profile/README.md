@@ -1,12 +1,10 @@
-## Hi there 👋
+## ZhgChgLi
 
-<!--
+iOS/Web Developer @ Taipei / Taiwan 🇹🇼
 
-**Here are some ideas to get you started:**
+- [ZhgChg.li](https://zhgchg.li/)
+- [Follow Me On Medium](https://blog.zhgchg.li)
+- [About Me](https://zhgchg.li/about/)
+- [Contact Me](https://zhgchg.li/contact/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
