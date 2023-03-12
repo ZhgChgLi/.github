@@ -18,3 +18,6 @@ We also encourage you to create your own extensions or plugins for our libraries
 
 ## Contact
 You can contact us via email at zhgchgli@gmail.com. Thank you for your interest in ZhgChgLi!
+
+# Donate
+[![Buy Me A Coffe](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer!&emoji=%F0%9F%8D%BA&slug=zhgchgli&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/zhgchgli)
