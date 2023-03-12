@@ -8,11 +8,9 @@ It supports HTML and other formats and is designed to be lightweight and flexibl
 
 ### [ZReviewTender](https://github.com/ZhgChgLi/ZReviewTender)
 ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow.
-It supports features like auto-logging to Google Sheets and auto-translating reviews to your language.
 
 ### [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)
-ZMediumToMarkdown is a tool for downloading Medium posts and converting them to Markdown format.
-It supports features like downloading paid content and converting YouTube links to preview images.
+ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format. 
 
 ## Contributions
 We welcome contributions to our projects! If you have any ideas or suggestions, please feel free to open an issue or pull request in the corresponding repository.
